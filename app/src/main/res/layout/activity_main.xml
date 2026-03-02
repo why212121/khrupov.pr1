@@ -31,4 +31,10 @@
         tools:layout_editor_absoluteX="183dp"
         tools:layout_editor_absoluteY="448dp" />
 
+    <androidx.constraintlayout.helper.widget.Layer
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        tools:layout_editor_absoluteX="112dp"
+        tools:layout_editor_absoluteY="59dp" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
