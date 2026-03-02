@@ -44,4 +44,10 @@
         tools:layout_editor_absoluteX="61dp"
         tools:layout_editor_absoluteY="96dp" />
 
+    <WebView
+        android:layout_width="409dp"
+        android:layout_height="127dp"
+        tools:layout_editor_absoluteX="1dp"
+        tools:layout_editor_absoluteY="228dp" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
