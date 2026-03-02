@@ -26,9 +26,16 @@
 
     <TextClock
         android:id="@+id/textClock"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="165dp"
+        android:layout_height="94dp"
         tools:layout_editor_absoluteX="149dp"
         tools:layout_editor_absoluteY="532dp" />
+
+    <SeekBar
+        android:id="@+id/seekBar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        tools:layout_editor_absoluteX="176dp"
+        tools:layout_editor_absoluteY="235dp" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
